@@ -48,7 +48,7 @@ Once pulled over from gitHub onto your local machine.
 - Once the window comes up with the file. Just double click the file and the file will open up in the browser of your choice. 
 
 ## Screenshot/video link
-[![Screenshot/video link](assets/images/screenshot.png)](https://youtu.be/VafkwA2dE60)
+[![Screenshot/video link](assets/images/screenshot.png)](https://youtu.be/LF3OEiP2TxU)
 <br>  
 
 
