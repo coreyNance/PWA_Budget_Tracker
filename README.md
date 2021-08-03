@@ -67,7 +67,7 @@ https://www.mongodb.com/
 https://morning-beyond-89786.herokuapp.com/
     
 ## Repository
-https://github.com/coreyNance/workout_tracker
+https://github.com/coreyNance/PWA_Budget_Tracker
 
 
 ## License
@@ -94,30 +94,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Submission on BCS
-
-* You are required to submit the following:
-
-  * the URL to the deployed application
-
-  * the URL to the Github repository
-
-- - -
